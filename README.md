@@ -1,5 +1,4 @@
 # 💫 About Me:
-🔭 Web Developer<br>🌱 I’m currently learning Dart(Flutter) and Angular
 
 
 ## 🌐 Socials:
